@@ -16,14 +16,17 @@ Use your first name (no spaces) as the repository name. Do not initialize a READ
 
 5. Initialize a git repository and add your files:
 `git init`
+;NBSP
 `git add --all`
    
-6. Make your first commit: 
+7. Make your first commit: 
 `git commit -m "your message here"`
 
-7. Setup your remote to point to the repository you created with your name and push your changes to the remote:
+8. Setup your remote to point to the repository you created with your name and push your changes to the remote:
 `git branch -M main`
+;NBSP
 `git remote add origin https://github.com/CSVADFall23/studentsamplefolder.git`
+;NBSP
 `git push -u origin main`
 
 
