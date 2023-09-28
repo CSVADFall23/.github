@@ -6,7 +6,7 @@ This is an organization for the Fall 23' class on computational systems for visu
 1. Once you receive an invite, create a new repository on this GitHub organization. 
 Use your first name (no spaces) as the repository name. Do not initialize a README, add a gitignore, or a license.
 
-2. Open the student_sample repository in the organization. This is a template I've created to help you set up your own repository. 
+2. Open the [student_sample repository](https://github.com/CSVADFall23/studentsamplefolder) in the organization. This is a template I've created to help you set up your own repository. 
 
 2. Download a zipped copy of the repository to your computer, unzip it, and save it somewhere that is not your Downloads folder. You might also want to rename the directory.
 
