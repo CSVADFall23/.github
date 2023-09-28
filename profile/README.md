@@ -2,7 +2,7 @@
 
 This is an organization for the Fall 23' class on computational systems for visual art and design.
 
-## Installation
+## Getting Started
 1. Once you receive an invite, create a new repository on this github organization. 
 Use your first name (no spaces) as the repository name. Do not initialize a README, add a gitignore, or a license.
 
