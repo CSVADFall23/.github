@@ -15,18 +15,15 @@ Use your first name (no spaces) as the repository name. Do not initialize a READ
 4. Open the command-line application on your computer (Terminal on Mac and Linux, Command Prompt on Windows) and cd into the directory.
 
 5. Initialize a git repository and add your files:
-`git init`
-;NBSP
+`git init`  
 `git add --all`
    
 7. Make your first commit: 
 `git commit -m "your message here"`
 
 8. Setup your remote to point to the repository you created with your name and push your changes to the remote:
-`git branch -M main`
-;NBSP
-`git remote add origin https://github.com/CSVADFall23/studentsamplefolder.git`
-;NBSP
+`git branch -M main`  
+`git remote add origin https://github.com/CSVADFall23/studentsamplefolder.git`  
 `git push -u origin main`
 
 
