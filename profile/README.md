@@ -27,6 +27,8 @@ Use your first name (no spaces) as the repository name. Do not initialize a READ
 `git push -u origin main`
 
 
+## Resources
+Weekly examples for all projects are available in this organization in the [codeexamples](https://github.com/CSVADFall23/codeexamples) repository.
 
 
 ## Contributing
